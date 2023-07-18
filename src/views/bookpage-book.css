@@ -1,0 +1,15 @@
+.bookpage-book-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.bookpage-book-container1 {
+  gap: 12px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
